@@ -1,4 +1,4 @@
-# python compound ineres calculator
+# python compound interes calculator
 
 principle=0 
 rate=0 
