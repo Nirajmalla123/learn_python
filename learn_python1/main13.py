@@ -1,4 +1,4 @@
-# 2d-list = it is a list made up of lit inside.
+# 2d-list = it is a list made up of list inside.
 
 
 fruits = ["apple","banana","pineapple"]
